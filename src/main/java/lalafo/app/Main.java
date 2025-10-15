@@ -12,6 +12,7 @@ public class Main {
     private static final DataBase db = new DataBase();
     private static final Scanner scanner = new Scanner(System.in);
 
+
     private static void menu() {
         System.out.println("""
                 0.  Exit
